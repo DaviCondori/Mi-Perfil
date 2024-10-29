@@ -1,0 +1,118 @@
+body {
+    background-image: url(assets/Img/FondoNegro1.jpg);
+    background-attachment: fixed;
+}
+h1 {
+    color: transparent;
+    text-align: center;
+    font-style: Bold;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-size: 90px;
+    background: linear-gradient(to left,rgb(255, 0, 140), rgb(90, 2, 255), rgb(0, 255, 242) );
+    background-clip: text;
+}
+h2 {    
+    color: transparent;
+    text-align: center;
+    font-style: Bold;   
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-size: 30px;
+    background: linear-gradient(to left,  rgb(255, 0, 140), rgb(90, 2, 255), rgb(0, 255, 242) );
+    background-clip: text;
+}
+h3 {
+    color: transparent;
+    text-align: center;
+    font-style: Bold;   
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-size: 30px;
+    background: linear-gradient(to left, rgb(255, 0, 140), rgb(90, 2, 255), rgb(0, 255, 242) );
+    background-clip: text;
+   
+}
+h4 {
+    color: transparent;
+    text-align: center;
+    font-style: Bold;   
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-size: 50px;
+    background: linear-gradient(to left,  rgb(255, 0, 140), rgb(90, 2, 255), rgb(0, 255, 242) );
+    background-clip: text;
+}
+.IESTP{    
+    color: transparent;
+    text-align: center;
+    font-style: Bold;   
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-size: 30px;
+    background: linear-gradient(to left, rgb(255, 0, 140), rgb(90, 2, 255), rgb(0, 255, 242) );
+    background-clip: text;
+}
+.Contenedor-imagen{
+    text-align: center;
+}
+.Imagen-borde{
+    display: block;
+    margin: auto;
+    padding: 5px;
+    border: 5px; 
+    border-radius: 10px;
+    background: linear-gradient(to left, rgb(255, 0, 140), rgb(90, 2, 255), rgb(0, 255, 242));
+    background-clip: padding-box;
+}
+.Contendor-Boton {
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 25px;
+    display: block;
+    margin: auto;
+    background: linear-gradient(to right,  rgb(255, 0, 140), rgb(90, 2, 255), rgb(0, 255, 242));
+    align-items: center;
+    border: none;
+    outline: none;
+    height: 45px;
+    border-radius: 3px;
+    font-style:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.contendor {
+    display: flex;
+    text-align: center;
+    font-size: 25px;
+    align-items: center;
+    }
+.tarjeta1 {
+    color: white;
+    margin: 15px;
+    border: 5px double  rgb(0, 255, 242);
+}
+
+.tarjeta2 {
+    color: white;
+    margin: 15px;
+    border: 5px double  rgb(90, 2, 255);
+}
+.tarjeta3 {
+    color: white;
+    margin: 15px;
+    border: 5px double  rgb(135, 85, 228);
+}
+.tarjeta4 {
+    color: white;
+    margin: 15px;
+    border: 5px double   rgb(255, 0, 140);
+}
+.tarjeta5 {
+    color: white;
+    margin: 15px;
+    border: 5px double   rgb(255, 0, 140);
+}
